@@ -4,3 +4,6 @@
 [submodule "Note"]
 	path = Note
 	url = https://github.com/JeffYoung17/Note.git
+[submodule "fabu_memo"]
+	path = fabu_memo
+	url = https://github.com/JeffYoung17/fabu_memo.git
