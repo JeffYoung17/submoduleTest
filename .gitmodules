@@ -1,0 +1,6 @@
+[submodule "dev-tools"]
+	path = dev-tools
+	url = https://github.com/JeffYoung17/dev-tools.git
+[submodule "Note"]
+	path = Note
+	url = https://github.com/JeffYoung17/Note.git
