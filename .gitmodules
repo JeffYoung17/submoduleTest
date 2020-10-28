@@ -7,3 +7,6 @@
 [submodule "xMemo"]
 	path = xMemo
 	url = git@github.com:JeffYoung17/xMemo.git
+[submodule "Blog"]
+	path = Blog
+	url = https://github.com/JeffYoung17/Blog.git
